@@ -1,4 +1,4 @@
-# aluraplus
+# Alura +
 
 This is a video streaming website built for Alura
 
