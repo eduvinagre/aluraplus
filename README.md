@@ -1,6 +1,6 @@
-# Alura +
+# Alura+
 
-This is a video streaming website built for Alura
+This is a landing page built for Alura+
 
 ## Built With
 
